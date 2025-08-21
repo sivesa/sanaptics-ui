@@ -1,3 +1,4 @@
+```
 Directory structure:
 └── sivesa-sanaptics-ui/
     ├── README.md
@@ -234,3 +235,4 @@ Directory structure:
         │   └── index.d.ts
         └── utils/
             └── helpers.ts
+```
